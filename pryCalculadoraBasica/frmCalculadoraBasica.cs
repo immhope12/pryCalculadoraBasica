@@ -34,5 +34,16 @@ namespace pryCalculadoraBasica
         {
 
         }
+
+        private void btnSuma_Click(object sender, EventArgs e)
+        {
+
+
+           
+
+
+          
+        }
+
     }
 }

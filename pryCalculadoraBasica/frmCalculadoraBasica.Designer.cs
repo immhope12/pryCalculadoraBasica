@@ -98,6 +98,7 @@
             btnSuma.TabIndex = 10;
             btnSuma.Text = "+";
             btnSuma.UseVisualStyleBackColor = true;
+            btnSuma.Click += btnSuma_Click;
             // 
             // btnResta
             // 
